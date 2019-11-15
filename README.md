@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-N64/blob/master/retroarch/overlay/GameBezels/N64/007%20-%20GoldenEye%20(USA).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-N64/blob/master/retroarch/overlay/GameBezels/N64/007%20-%20The%20World%20Is%20Not%20Enough%20(Europe)%20(En%2CFr%2CDe).png?raw=true)
